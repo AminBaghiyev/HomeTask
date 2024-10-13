@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\bin\Debug\net8.0\Class&Object&method.exe
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\bin\Debug\net8.0\Class&Object&method.deps.json
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\bin\Debug\net8.0\Class&Object&method.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\bin\Debug\net8.0\Class&Object&method.dll
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\bin\Debug\net8.0\Class&Object&method.pdb
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.dll
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\refint\Class&Object&method.dll
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.pdb
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\Class&Object&method.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\Class&Object&method\Class&Object&method\obj\Debug\net8.0\ref\Class&Object&method.dll
