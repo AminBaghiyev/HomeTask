@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\bin\Debug\net8.0\Group&Student-Class.exe
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\bin\Debug\net8.0\Group&Student-Class.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\bin\Debug\net8.0\Group&Student-Class.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\bin\Debug\net8.0\Group&Student-Class.dll
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\bin\Debug\net8.0\Group&Student-Class.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.dll
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\refint\Group&Student-Class.dll
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\Group&Student-Class.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\Group&Student-Class\Group&Student-Class\obj\Debug\net8.0\ref\Group&Student-Class.dll
