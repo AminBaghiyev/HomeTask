@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\refint\CustomValidatorLibrary.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\AccessModifiers\CustomValidatorLibrary\obj\Debug\net8.0\ref\CustomValidatorLibrary.dll

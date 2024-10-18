@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AccessModifiers/1.0.0": {
+        "dependencies": {
+          "CustomValidatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AccessModifiers.dll": {}
+        }
+      },
+      "CustomValidatorLibrary/1.0.0": {
+        "runtime": {
+          "CustomValidatorLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomValidatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

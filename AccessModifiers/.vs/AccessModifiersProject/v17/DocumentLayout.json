@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE5072E-1193-4BA2-8773-865779CB8509}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\user\\desktop\\ab205\\hometask\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE5072E-1193-4BA2-8773-865779CB8509}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:22:12.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
