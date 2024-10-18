@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.exe
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.dll
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\bin\Debug\net8.0\CustomStringMethods.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.dll
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\refint\CustomStringMethods.dll
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\CustomStringMethods.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\CustomStringMethods\CustomStringMethods\obj\Debug\net8.0\ref\CustomStringMethods.dll
