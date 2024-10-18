@@ -17,7 +17,6 @@ internal class CustomString
         for (int i = 0; i < Value.Length; i++)
         {
             if (Value[i] == separator) splittedArrayLength++;
-            
         }
 
         string[] splittedString = new string[splittedArrayLength];
@@ -26,6 +25,33 @@ internal class CustomString
         for (int i = 0; i < Value.Length; i++)
         {
             if (Value[i] == separator) {
+                splittedString[indexOfSplittedString] = str.ToString();
+                indexOfSplittedString++;
+                str.Clear();
+                continue;
+            }
+            str.Append(Value[i]);
+        }
+        splittedString[indexOfSplittedString] = str.ToString();
+
+        return splittedString;
+    }
+
+    public string[] Split(string separator)
+    {
+        int splittedArrayLength = 1;
+        for (int i = 0; i < Value.Length - separator.Length; i++)
+        {
+            if (Value.Substring(i, separator.Length) == separator) splittedArrayLength++;
+        }
+
+        string[] splittedString = new string[splittedArrayLength];
+        int indexOfSplittedString = 0;
+        StringBuilder str = new();
+        for (int i = 0; i < Value.Length; i++)
+        {
+            if (Value.Length - separator.Length >= i &&  Value.Substring(i, separator.Length) == separator)
+            {
                 splittedString[indexOfSplittedString] = str.ToString();
                 indexOfSplittedString++;
                 str.Clear();

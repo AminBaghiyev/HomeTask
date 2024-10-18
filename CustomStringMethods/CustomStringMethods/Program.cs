@@ -24,6 +24,22 @@ internal class Program
             Console.WriteLine(sr);
         }
 
+        Console.WriteLine("------");
+
+        CustomString txt11 = new("hello,world,how,are,you");
+        foreach (var t in txt11.Split("w"))
+        {
+            Console.WriteLine(t);
+        }
+
+        Console.WriteLine("-");
+
+        string txt12 = "hello,world,how,are,you";
+        foreach (var t in txt12.Split("w"))
+        {
+            Console.WriteLine(t);
+        }
+
         Console.WriteLine("--");
 
         Console.WriteLine(str.Replace("te", "a"));
