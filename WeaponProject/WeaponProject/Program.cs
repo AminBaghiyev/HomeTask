@@ -7,7 +7,12 @@ public class Program
         bool render = true;
         App.WarningMsg("Welcome to the Weapon Project...");
         string input = "";
-        Weapon weapon = new(30, 30);
+        Weapon weapon = new();
+
+        weapon.CapacityOfBullet = 0; // 0 for setter
+        weapon.NumberOfBullets = 0; // 0 for setter
+        weapon.FireMode = ""; // "" for setter
+        Console.Clear();
 
         while (true)
         {

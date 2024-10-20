@@ -4,34 +4,51 @@ namespace WeaponProject;
 
 internal class Weapon
 {
-    public int CapacityOfBullet { get; set; }
-
+    private int _capacityOfBullet;
+    public int CapacityOfBullet
+    {
+        get { return _capacityOfBullet; }
+        set
+        {
+            while (true)
+            {
+                Console.Write("Enter capacity of bullet: ");
+                int.TryParse(Console.ReadLine(), out value);
+                if (value > 0) { _capacityOfBullet = value; break; }
+                else App.ErrorMsg("The capacity of bullet should be natural value");
+            }
+        }
+    }
     private int _numberOfBullets;
     public int NumberOfBullets
     {
         get {  return _numberOfBullets; }
         set
         {
-            if (value <= CapacityOfBullet && value >= 0) _numberOfBullets = value;
-            else App.ErrorMsg("Number of bullets cannot exceed bullet capacity of the weapon!");
+            while (true)
+            {
+                Console.Write("Enter number of bullets: ");
+                int.TryParse(Console.ReadLine(), out value);
+                if (value <= CapacityOfBullet && value >= 0) { _numberOfBullets = value; break; }
+                else App.ErrorMsg("Number of bullets cannot exceed bullet capacity of the weapon!");
+            }
         }
     }
 
-    private string _fireMode = "manual";
+    private string _fireMode;
     public string FireMode
     {
         get { return _fireMode; }
         set
         {
-            if (value.ToLower() == "manual" || value.ToLower() == "auto") _fireMode = value;
-            else App.ErrorMsg("Shooting mode can only be manual or auto!");
+            while (true)
+            {
+                Console.Write("Enter fire mode (manual or auto): ");
+                value = Console.ReadLine();
+                if (value.ToLower() == "manual" || value.ToLower() == "auto") { _fireMode = value; break; }
+                else App.ErrorMsg("Shooting mode can only be manual or auto!");
+            }
         }
-    }
-
-    public Weapon(int capacityOfBullet, int numberOfBullets)
-    {
-        CapacityOfBullet = capacityOfBullet;
-        NumberOfBullets = numberOfBullets;
     }
 
     public void Shoot()
@@ -82,11 +99,11 @@ internal class Weapon
 
     public void Reload()
     {
-        NumberOfBullets = CapacityOfBullet;
+        _numberOfBullets = CapacityOfBullet;
     }
 
     public void ChangeFireMode()
     {
-        FireMode = FireMode == "manual" ? "auto" : "manual";
+        _fireMode = FireMode == "manual" ? "auto" : "manual";
     }
 }
