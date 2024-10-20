@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.exe
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.dll
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.dll
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\refint\WeaponProject.dll
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\WeaponProject\WeaponProject\obj\Debug\net8.0\ref\WeaponProject.dll
