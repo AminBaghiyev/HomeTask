@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\bin\Debug\net8.0\StringListIndexer.exe
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\bin\Debug\net8.0\StringListIndexer.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\bin\Debug\net8.0\StringListIndexer.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\bin\Debug\net8.0\StringListIndexer.dll
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\bin\Debug\net8.0\StringListIndexer.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.dll
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\refint\StringListIndexer.dll
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\StringListIndexer.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\StringListIndexer\StringListIndexer\obj\Debug\net8.0\ref\StringListIndexer.dll
