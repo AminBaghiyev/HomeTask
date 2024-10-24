@@ -2,6 +2,14 @@
 
 internal class App
 {
+    private DB _db;
+
+    public App()
+    {
+        _db = new DB();
+    }
+
+    #region Components
     public static void WelcomeMessage()
     {
         HeaderMessage("--- Application user manual ---");
@@ -13,7 +21,7 @@ internal class App
         Console.WriteLine();
     }
 
-    public static void CreateGroupPanel(ref Group[] groups)
+    public void CreateGroupPage()
     {
         HeaderMessage("--- Group Creating Panel ---");
 
@@ -22,15 +30,15 @@ internal class App
         group.Name = InfiniteInput("Enter group name: ", "Group name cannot be empty");
         group.Shift = '0'; // '0' for start to setter
 
-        Group.AddGroup(ref groups, group);
+        _db.AddGroup(group);
 
         Console.Clear();
         SuccessMessage("Group created successfully!\n");
     }
 
-    public static void AddStudentPanel(Group[] groups)
+    public void AddStudentPage()
     {
-        if (groups.Length == 0)
+        if (_db.groups.Length == 0)
         {
             ErrorMessage("To add a student, you must first create a group.\n");
             return;
@@ -42,18 +50,27 @@ internal class App
 
         student.Name = InfiniteInput("Enter student's name: ", "Student's name cannot be empty");
         student.Surname = InfiniteInput("Enter student's surname: ", "Student's surname cannot be empty");
-        student.Gender = "0"; // "0" for start to setter
+        student.Gender = null; // null for start to setter
         student.Age = 0; // 0 for start to setter
         student.PhoneNumber = "0"; // "0" for start to setter
-        student.SetGroup(groups);
+
+        student.Group = _db.GetGroupByName(
+            InfiniteInput(
+                _db.GroupNamesToArray(),
+                "Enter student's group name: ",
+                "Group does not exist. Cannot add student."
+                )
+        );
+
+        student.Group.AddStudent(student);
 
         Console.Clear();
         SuccessMessage("Student added successfully!\n");
     }
 
-    public static void StudentSearchPanel(Group[] groups)
+    public void StudentSearchPage()
     {
-        if (groups.Length == 0)
+        if (_db.groups.Length == 0)
         {
             ErrorMessage("To search a student, you must first create a group.\n");
             return;
@@ -64,9 +81,9 @@ internal class App
         bool isFound = false;
         string inputStudentName = InfiniteInput("Enter a student name to search: ", "Student's name cannot be empty");
 
-        foreach (Group grp in groups)
+        foreach (Group grp in _db.groups)
         {
-            if (grp.FindStudent(inputStudentName))
+            if (grp.GetStudentByName(inputStudentName) != null)
             {
                 Console.WriteLine($"{inputStudentName} was found in the {grp.Name}.");
                 isFound = true;
@@ -86,7 +103,7 @@ internal class App
             case "H":
                 return;
             case "R":
-                StudentSearchPanel(groups);
+                StudentSearchPage();
                 break;
             case "Q":
                 Environment.Exit(0);
@@ -94,21 +111,21 @@ internal class App
         }
     }
 
-    public static void AddAbsencePanel(Group[] groups)
+    public void AddAbsencePage()
     {
-        if (groups.Length == 0)
+        if (_db.groups.Length == 0)
         {
             ErrorMessage("To write an absence, you must first create a group.\n");
             return;
         }
 
         string inputGroupName = InfiniteInput(
-            Group.GroupNamesToArray(groups),
+            _db.GroupNamesToArray(),
             "Enter the group you want to write your absence to: ",
             "Group does not exist!"
         );
 
-        Group group = Group.GetGroupByName(groups, inputGroupName);
+        Group group = _db.GetGroupByName(inputGroupName);
 
         string inputStudentName = InfiniteInput(group.StudentsNamesToArray(), "Enter a student name to write absence: ", "Student not found.");
 
@@ -130,7 +147,9 @@ internal class App
                 break;
         }
     }
+    #endregion
 
+    #region Source Code
     public static string InfiniteInput(string message = "", string errorMessage = "")
     {
         string input = "";
@@ -187,4 +206,5 @@ internal class App
         Console.WriteLine(message);
         Console.ResetColor();
     }
+    #endregion
 }

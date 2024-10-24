@@ -1,4 +1,5 @@
 ﻿using System.Text.RegularExpressions;
+using Group_Student_Class.Enums;
 
 namespace Group_Student_Class.Models;
 
@@ -6,22 +7,25 @@ internal class Student
 {
     public string Name { get; set; }
     public string Surname { get; set; }
-    private string _gender;
-    public string Gender {
+    private Gender _gender;
+    public Gender? Gender {
         get { return _gender; }
         set
         {
-            string input;
-            while (true)
+            Console.Write("Enter student's gender (male or female): ");
+            string input = Console.ReadLine();
+            do
             {
+                if (Enum.TryParse(input, true, out Gender result))
+                {
+                    _gender = result;
+                    break;
+                }
+                App.ErrorMessage("Gender can only be male or female!");
                 Console.Write("Enter student's gender (male or female): ");
                 input = Console.ReadLine();
-
-                if (input.ToLower() == "male" || input.ToLower() == "female") break;
-
-                App.ErrorMessage("Gender can only be male or female!");
             }
-            _gender = input;
+            while (true);
         }
     }
 
@@ -73,36 +77,12 @@ internal class Student
 
     public byte Limit => _limit;
 
-    private Group Group;
+    public Group Group { get; set; }
 
     public void Absent()
     {
         if (_limit > 0) _limit--;
         Console.WriteLine("The student did not come to class today.");
         if (_limit == 0) App.ErrorMessage("Got failed!");
-    }
-
-    public Group GetGroup()
-    {
-        return Group;
-    }
-
-    public void SetGroup(Group[] groups)
-    {
-        string input;
-        while (true)
-        {
-            Console.Write("Enter student's group name: ");
-            input = Console.ReadLine();
-
-            if (Group.IsGroupExists(groups, input))
-            {
-                Group = Group.GetGroupByName(groups, input);
-                Group.AddStudent(this, groups);
-                break;
-            }
-
-            App.ErrorMessage("There is no such group.");
-        }
     }
 }

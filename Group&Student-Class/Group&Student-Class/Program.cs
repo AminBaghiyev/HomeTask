@@ -6,10 +6,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        App app = new(); // Start The App
         App.WarningMessage("Welcome to the App!");
-
         string input = "";
-        Group[] groups = [];
 
         while (input != "Q")
         {
@@ -20,16 +19,16 @@ internal class Program
             switch (input)
             {
                 case "CG":
-                    App.CreateGroupPanel(ref groups);
+                    app.CreateGroupPage();
                     break;
                 case "AS":
-                    App.AddStudentPanel(groups);
+                    app.AddStudentPage();
                     break;
                 case "FS":
-                    App.StudentSearchPanel(groups);
+                    app.StudentSearchPage();
                     break;
                 case "AA":
-                    App.AddAbsencePanel(groups);
+                    app.AddAbsencePage();
                     break;
             }
         }
