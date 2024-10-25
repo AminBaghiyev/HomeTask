@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.exe
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.dll
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.dll
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\refint\ReflectionTask.dll
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ref\ReflectionTask.dll
