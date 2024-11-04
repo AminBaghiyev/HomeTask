@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AsyncProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BB8C6-428D-4816-AB23-089E42351D67}|AsyncProgramming\\AsyncProgramming.csproj|c:\\users\\user\\desktop\\ab205\\hometask\\asyncprogramming\\asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BB8C6-428D-4816-AB23-089E42351D67}|AsyncProgramming\\AsyncProgramming.csproj|solutionrelative:asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AsyncProgramming\\AsyncProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\HomeTask\\AsyncProgramming\\AsyncProgramming\\Program.cs",
+              "RelativeToolTip": "AsyncProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:30:18.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

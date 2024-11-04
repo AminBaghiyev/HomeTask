@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.exe
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.deps.json
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.sourcelink.json
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\refint\AsyncProgramming.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
