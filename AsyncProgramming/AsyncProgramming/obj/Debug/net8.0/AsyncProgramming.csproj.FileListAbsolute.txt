@@ -13,3 +13,6 @@ C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug
 C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
 C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
 C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AB205\HomeTask\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncPro.14922AB8.Up2Date
